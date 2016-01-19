@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.18)  19 JAN 2016 01:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.30)  19 JAN 2016 13:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **srodowisko.tex
 (./srodowisko.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
@@ -530,7 +530,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.119 x
+l.120 x
        =\left[ \begin{array}{cccc}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -539,13 +539,13 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.119 x=\left
+l.120 x=\left
              [ \begin{array}{cccc}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.121 4}
+l.122 4}
          & 5  & 6 \\
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -556,35 +556,36 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.125 
+l.126 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 [7] [8] (./srodowisko.aux) ) 
 Here is how much of TeX's memory you used:
- 2820 strings out of 495028
- 34949 string characters out of 6181497
- 89795 words of memory out of 5000000
- 5976 multiletter control sequences out of 15000+600000
+ 2820 strings out of 493304
+ 34949 string characters out of 6139871
+ 94081 words of memory out of 5000000
+ 6225 multiletter control sequences out of 15000+600000
  17457 words of font info for 48 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 38i,10n,26p,242b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/kuba/.texmf-var/fonts/pk/ljfour/jknappen/ec
-/ecti1095.600pk> </home/kuba/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.60
-0pk> </home/kuba/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/
-kuba/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/kuba/.texmf-
-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/kuba/.texmf-var/fonts/pk
-/ljfour/jknappen/ec/ecrm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on srodowisko.pdf (8 pages, 169173 bytes).
+ 957 hyphenation exceptions out of 8191
+ 38i,10n,26p,242b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super
+-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/pu
+blic/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx20
+74.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/t
+exmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/pub
+lic/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti109
+5.pfb>
+Output written on srodowisko.pdf (8 pages, 223469 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
